@@ -11,7 +11,7 @@ Este projeto tem como objetivo desenvolver uma rede de sensores sem fio, baseada
  
  **Estação Base e Uplink**
  - Recebe pacotes em LoRa, decodifica.
- - Envia via TCP (Blynk protocolo
+ - Envia via TCP (Blynk protocolo)
 
 ## Componentes de Hardware e Software
 - ESP32 LoRa Heltec V3
